@@ -1,6 +1,7 @@
 {
   "name": "@iserverseo-support/linux-log-parser",
   "version": "0.1.0",
+  "license": "MIT",
   "exports": "./mod.ts",
   "tasks": {
     "test": "deno test",
